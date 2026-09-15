@@ -4,4 +4,7 @@ const user ={
    fav_lang: "JavaScript"
 };
 
+const subjects = ["History","Geography","Economics"];
+
 console.log(user);
+console.log(subjects[1]);

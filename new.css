@@ -1,0 +1,34 @@
+ h1 {
+            color: blue;
+            text-align: center;
+            text-decoration: dotted;
+            border: 3px solid black;
+    }
+ul {
+    color: blueviolet;
+}
+.new{
+    color:brown;
+}
+#baz{
+    color: blueviolet;
+}
+
+@media (min-width: 600px){
+    body{
+    background-color: aquamarine;
+    }
+}
+ 
+@media (max-length: 599px){
+  body {
+        background-color: red ;
+  }
+}
+ button{
+      background-color: chocolate;
+ }
+
+  form > input > submit{
+    background-color: chocolate;
+ }

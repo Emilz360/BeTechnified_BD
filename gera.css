@@ -1,0 +1,17 @@
+.slide{
+    border: 20px, black;
+    height: 200px;
+}
+#bar{
+    border: 20px;
+}
+
+div{
+    border: 20px;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: springgreen;
+}
